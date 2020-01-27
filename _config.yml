@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: sm7515
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -25,7 +25,7 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: sm7515@nyu.edu
   facebook:
   flickr:
   github: nyu-ossd-s20
@@ -43,14 +43,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s20.github.io/weekly"
+url: "https://nyu-ossd-s20.github.io/sm7515-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/sm7515-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -70,7 +70,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
