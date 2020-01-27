@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm currently a junior majoring in Computer Science and minoring in Integrated Digital Media.
