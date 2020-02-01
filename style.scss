@@ -30,6 +30,10 @@ body {
   width: 100%;
 }
 
+#main {
+  padding-bottom: 100px;
+}
+
 .screen-reader-text {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
@@ -332,6 +336,7 @@ nav {
 .wrapper-footer {
   position: fixed;
   bottom: 0px;
+  width: 100%;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
