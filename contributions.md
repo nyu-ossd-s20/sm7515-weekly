@@ -10,16 +10,11 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 
 The description should include a brief summary of what you did.
 
-Replace the first row with your own contribution. 
+Replace the first row with your own contribution.
 
 -->
 
-
-
-
-
-| Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 22   |   https://www.openstreetmap.org/changeset/81355023  | open street map    |   I added a chocolate shop in east village.    |
-|  Feb 22  |   https://www.openstreetmap.org/changeset/81355273  | open street map    |   I added a Japanese dessert shop in east village    |
-|     |     |     |      |
+| Date # | Contribution (Link)                              | Type            | Description                                     |
+| ------ | :----------------------------------------------- | :-------------- | :---------------------------------------------- |
+| Feb 22 | https://www.openstreetmap.org/changeset/81355023 | open street map | I added a chocolate shop in east village.       |
+| Feb 22 | https://www.openstreetmap.org/changeset/81355273 | open street map | I added a Japanese dessert shop in east village |
