@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 3   |   https://www.openstreetmap.org/changeset/81355023  | open street map    |   I added a chocolate shop in east village.    |
 |     |     |     |      |
 |     |     |     |      |
