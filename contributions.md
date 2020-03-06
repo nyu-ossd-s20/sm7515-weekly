@@ -21,3 +21,4 @@ Replace the first row with your own contribution.
 | Feb 22 | [issue](https://github.com/nyu-ossd-s20/kmaraj-weekly/issues/2) | Classmate website | I reported an issue regarding broken link.
 | Mar 1 | [changeset](https://www.openstreetmap.org/changeset/81653057) | open street map | I added a Korean restaurant on 5th Ave.
 | Mar 5 | [changeset](https://www.openstreetmap.org/changeset/81843126) | open street map | I added a Japanese cocktail bar in east village.
+| Mar 5 | [wikipedia](https://zh.wikipedia.org/w/index.php?title=2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E7%BE%8E%E5%9C%8B%E7%96%AB%E6%83%85&oldid=58479808) | wikipedia | I updated the total number of coronavirus cases found in New York State on Mar 4.
