@@ -20,3 +20,4 @@ Replace the first row with your own contribution.
 | Feb 22 | [changeset](https://www.openstreetmap.org/changeset/81355273) | open street map | I added a Japanese dessert shop in east village |
 | Feb 22 | [issue](https://github.com/nyu-ossd-s20/kmaraj-weekly/issues/2) | Classmate website | I reported an issue regarding broken link.
 | Mar 1 | [changeset](https://www.openstreetmap.org/changeset/81653057) | open street map | I added a Korean restaurant on 5th Ave.
+| Mar 5 | [changeset](https://www.openstreetmap.org/changeset/81843126) | open street map | I added a Japanese cocktail bar in east village.
