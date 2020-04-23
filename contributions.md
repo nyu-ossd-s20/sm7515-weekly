@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | Apr 18 | [pull request comment](https://github.com/processing/p5.js-website/pull/664#discussion_r409047157) | p5.js-website | I participated in the discussion to find a proper discussion. |
 | Apr 19 | [issue](https://github.com/nyu-ossd-s20/sm6957-weekly/issues/1) | classmante's website | I reported an issue regarding a broken link. |
 | Apr 23 | [pull request](https://github.com/processing/p5.js-website/pull/724) | p5.js-website | I added Chinese translation for examples under [Instance Mode](https://p5js.org/examples/instance-mode-instance-container.html) section.
+| Apr 23 | [changeset](https://www.openstreetmap.org/changeset/84023870) | open street map | I added Krispy Kreme's new location on 6th ave | 
