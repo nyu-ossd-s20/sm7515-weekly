@@ -25,6 +25,7 @@ Replace the first row with your own contribution.
 | Mar 31 | [pull request](https://github.com/processing/p5.js-website/pull/644) | p5.js-website | I translated the example written in Java on [Processing](https://processing.org/examples/) to [this example](https://p5js.org/zh-Hans/examples/advanced-data-load-saved-table.html) written in p5.js and added to their website. |
 | Apr 2 | [pull request](https://github.com/processing/p5.js-website/pull/648) | p5.js-website | I added Chinese translation for the examples under [Color](https://p5js.org/zh-Hans/examples/). |
 | Apr 8 | [issue](https://github.com/processing/p5.js-website/issues/662) | p5.js-website | I raised an issue regarding a problem I found on their website. |
-| Apr 10 | [pull request](https://github.com/processing/p5.js-website/pull/663) | p5.s-website | I added Chinese translation for the examples under [Interaction](https://p5js.org/zh-Hans/examples/). |
+| Apr 10 | [pull request](https://github.com/processing/p5.js-website/pull/663) | p5.js-website | I added Chinese translation for the examples under [Interaction](https://p5js.org/zh-Hans/examples/). |
 | Apr 18 | [pull request comment](https://github.com/processing/p5.js-website/pull/664#discussion_r409047157) | p5.js-website | I participated in the discussion to find a proper discussion. |
 | Apr 19 | [issue](https://github.com/nyu-ossd-s20/sm6957-weekly/issues/1) | classmante's website | I reported an issue regarding a broken link. |
+| Apr 23 | [pull request] (https://github.com/processing/p5.js-website/pull/724) | p5.js-website | I added Chinese translation for examples under [Instance Mode](https://p5js.org/examples/instance-mode-instance-container.html) section.
