@@ -25,4 +25,6 @@ Replace the first row with your own contribution.
 | Apr 19 | [issue](https://github.com/nyu-ossd-s20/sm6957-weekly/issues/1) | classmante's website | I reported an issue regarding a broken link. |
 | Apr 23 | [changeset](https://www.openstreetmap.org/changeset/84023870) | open street map | I added Krispy Kreme's new location on 6th ave. | 
 | Apr 27 | [issue](https://github.com/nyu-ossd-s20/Pallof-weekly/issues/2) | classmante's website | I reported an issue regarding a wrong blog title. |
-| May 1 | [changeset](https://www.openstreetmap.org/changeset/84497544) | open street map | add a Japanese omakase sushi restaurant in East Village, New York
+| May 1 | [changeset](https://www.openstreetmap.org/changeset/84497544) | open street map | add a Japanese omakase sushi restaurant in East Village, New York |
+| May 6 | [issue](https://github.com/nyu-ossd-s20/electavire-weekly/issues/1) | classmate website | I reported an issue regarding a broken link. |
+| May 6 | [edit](https://en.wikipedia.org/w/index.php?title=Li_Ronghao&diff=prev&oldid=955257110) | wikipedia | I added a newly published album for this artist |
